@@ -1,19 +1,19 @@
-# Chuleta de control de versiones con git
+# Chuleta de control de versiones con git.<br>
 
-##Comandos de utilidad.
+## Comandos de utilidad.<br>
   Pwd 		-> Te muestra tu ubicación dentro de los directorios.<br>
   ls name		-> Te muestra el contenido de los directorios name.<br>
   cd name	-> Te traslada al directorio name.<br>
   cd .. 		->Te devuelve al directorio anterior.<br>
 
 
-##Como crear y borrar repositorio.<br>
+## Como crear y borrar repositorio.<br>
 Para crear un repositorio desde la página inicial de GitHub podemos buscar el botón que esta en la parte superior derecha que se llama crear repositorio: ‘+’ -> ‘new repository’<br>
 Una vez seleccionado solo hay que rellenar unos pocos campos que darán información sobre el repositorio.<br>
 Para eliminar un repositorio desde la opción ‘setting’ <br>
 
-##Comandos para GitHub<br>
-###Comandos para GitHub local<br>
+## Comandos para GitHub<br>
+### Comandos para GitHub local<br>
 
   Git ini 		-> este comando convierte la carpeta en la que se ejecute en un directorio de git Copia local.<br>
   Git add 		-> Al ejecutar este comando seguido del nombre de los archivos que quieres guardar se generara una copia que llamaremos archivo provisional.<br>
@@ -21,13 +21,13 @@ Para eliminar un repositorio desde la opción ‘setting’ <br>
   Git commit -m “name” -> Almacena en el archivo local los documentos almacenados en el archivo provisional bajo un identificador name, que nos permite localizar los documentos una vez almacenados, y recuperarlos en caso de actualizar el archivo con información errónea.<br>
   Git restore <fichero> -> Nos permite restaurar un fichero almacenado a una versión anterior <br>
 
-###Comandos para github nube<br>
+### Comandos para github nube<br>
   Git clone URL		-> bajas de la nube al archivo local un clon del repositorio.<br>
   Git pull			-><br>
   Git fetch + git merge	-> actualiza repositorio local respecto al de la nube.<br>
   Git push		-> actualizas el repositorio de la nube con ficheros de archivo local<br>
 
-##Guía de Estudio para el Control de Versiones.<br>
+## Guía de Estudio para el Control de Versiones.<br>
 Guía de Estudio de la parte de Gestión de la Documentación - Control de Versiones. Indica qué tenemos que saber y saber hacer en la asignatura de Proyectos de Sistemas Electrónicos.<br>
 Conceptos mínimos que tenemos que saber sobre el control de versiones<br>
 •	Definir probablemente en qué consiste el control de versiones.<br>
