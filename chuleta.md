@@ -23,9 +23,10 @@ Para eliminar un repositorio desde la opción ‘setting’ <br>
 
 ### Comandos para github nube<br>
   Git clone URL		-> bajas de la nube al archivo local un clon del repositorio.<br>
-  Git pull			-><br>
+  Git pull			->Actualiza el repocitorio local con las actualizaciones de la nube<br>
   Git fetch + git merge	-> actualiza repositorio local respecto al de la nube.<br>
   Git push		-> actualizas el repositorio de la nube con ficheros de archivo local<br>
+  Git merge   ->Conbina dos ramas y muestra los posibles conflictos para que se resuervan antes de combinarlos<br>
 
 ## Guía de Estudio para el Control de Versiones.<br>
 Guía de Estudio de la parte de Gestión de la Documentación - Control de Versiones. Indica qué tenemos que saber y saber hacer en la asignatura de Proyectos de Sistemas Electrónicos.<br>
